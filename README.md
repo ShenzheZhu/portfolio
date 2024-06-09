@@ -18,10 +18,10 @@
 **Data Analyst Intern @ University of Toronto Scarborough (_Jan 2024 - May 2024_)**
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Career Navigator: LLM & Knowledge Graph-Based Job Recommender Engine
+[work link](https://github.com/ShenzheZhu/Career_Navigator_UTSC_AScoop)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Career Navigator is an innovative job recommendation service based on LLM and Knowledge Graph, which aims to solve the challenges encountered by our pool of students in searching for jobs on the CSM platform, and to improve the efficiency of students in finding suitable positions. By utilizing advanced knowledge graph technology and graph algorithms, the system can deeply analyze the content of a student's resume, intelligently match it with the available job data, and recommend the job that best matches his/her skills and experience.
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
