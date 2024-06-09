@@ -44,9 +44,10 @@ We built "InterView" using cutting-edge technologies. The frontend is crafted wi
 1. Zhu S. Exploring knowledge graph-based neural-symbolic system from application perspective[J]. arXiv preprint arXiv:2405.03524, 2024.
 2. Sun, S., & Zhu, S. (2024). Searching Realistic-Looking Adversarial Objects For Autonomous Driving Systems. arXiv preprint arXiv:2405.11629.
 
-
+   
+- [CV](/asset/files/Work_CV.pdf)
+- [google scholar](https://scholar.google.com/citations?user=WBZCniUAAAAJ&hl=zh-CN)
 - [Linkedin](https://www.linkedin.com/in/shenzhezhu0531/)
 - [email](mailto:cho.zhu@mail.utoronto.ca)
 - [github](https://github.com/ShenzheZhu)
-- [google scholar](https://scholar.google.com/citations?user=WBZCniUAAAAJ&hl=zh-CN)
-- [CV](/asset/files/Work_CV.pdf)
+
