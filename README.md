@@ -1,5 +1,5 @@
 ## Education 
-- B.S. Science, Computer Science, University of Toronto (Sep 2022 - Current)
+- B.S. Science, Computer Science, University of Toronto (2022/09 - Current)
 
 ## Research Interests
 - Explainable AI (XAI)
@@ -8,14 +8,16 @@
 - Knowledge representation
 
 ## Research Experience
-*Research Assistant @ SocialAI Lab, University of Toronto (_May 2024 - Present_)* advisor: William Cunningham
+*Research Assistant @ SocialAI Lab, University of Toronto (2024/05 - Present_)* 
+advisor: William Cunningham
 
-*Deep Learning Researcher  @ Department of Computer Science, University of Toronto (_Dec 2023 - Present_)* advisor: Xujie Si
+*Deep Learning Researcher  @ Department of Computer Science, University of Toronto (2023/12 - Present_)* 
+advisor: Xujie Si
 
 ## Work Experience
-*AI/NLP Analyst @ Urban Data Research Centre, University of Toronto (_May 2024 - Present_)*
+*AI/NLP Analyst @ Urban Data Research Centre, University of Toronto (2024/05 - Present_)*
 
-*Data Analyst Intern @ University of Toronto Scarborough (_Jan 2024 - May 2024_)*
+*Data Analyst Intern @ University of Toronto Scarborough (2024/01 - 2024/05)*
 
 ## Projects
 ### Minagen: A Minimal Testing Ground for Building Cognitive Architectures for Generative Agents
