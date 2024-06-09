@@ -28,7 +28,7 @@ Career Navigator is an innovative job recommendation service based on LLM and Kn
 
 We built "InterView" using cutting-edge technologies. The frontend is crafted with React for an intuitive user experience. Google's speech-to-text API handles audio transcription, while the core bias detection uses Google Gemini, Vertex AI, and Langchain for RAG. Job posting data and bias examples are embedded with Vertex AI Embeddings and stored in Google BigQuery. When an interviewer asks a question, RAG retrieves relevant data from the vector store and combines it with Gemini's knowledge base for tailored analysis.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![interview](/asset/img/gallery.jpg)
 
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
