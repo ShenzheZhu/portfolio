@@ -20,7 +20,6 @@
 ## Projects
 ### Minagen: A Minimal Testing Ground for Building Cognitive Architectures for Generative Agents
 This project is dedicated to the development and testing of cognitive architectures designed for generative AI agents. Our primary goal is to provide a minimalistic, yet powerful platform for researchers and developers to explore ideas and test hypotheses in the realm of cognitive modeling and AI.
-![minagen](/asset/img/minagen.png)
 ![cog](/asset/img/Cognitive-1.png)
 
 ### Career Navigator: LLM & Knowledge Graph-Based Job Recommender Engine
