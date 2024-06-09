@@ -18,18 +18,15 @@
 **Data Analyst Intern @ University of Toronto Scarborough (_Jan 2024 - May 2024_)**
 
 ## Projects
-### Career Navigator: LLM & Knowledge Graph-Based Job Recommender Engine
-[work link](https://github.com/ShenzheZhu/Career_Navigator_UTSC_AScoop)
-
-Career Navigator is an innovative job recommendation service based on LLM and Knowledge Graph, which aims to solve the challenges encountered by our pool of students in searching for jobs on the CSM platform, and to improve the efficiency of students in finding suitable positions. By utilizing advanced knowledge graph technology and graph algorithms, the system can deeply analyze the content of a student's resume, intelligently match it with the available job data, and recommend the job that best matches his/her skills and experience.
+### [Career Navigator: LLM & Knowledge Graph-Based Job Recommender Engine](https://github.com/ShenzheZhu/Career_Navigator_UTSC_AScoop)
+Career Navigator is an innovative job recommendation service based on LLM and Knowledge Graph. It addresses challenges students face on the CSM platform, improving job search efficiency. By leveraging advanced knowledge graph technology and algorithms, the system analyzes student resumes, matches them with job data, and recommends the best-fit positions.
 
 ![career](/asset/img/logo.png)
 ![kg](/asset/img/visualisation.png)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### [InterView](https://devpost.com/software/interview-7eugcy)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+We built "InterView" using cutting-edge technologies. The frontend is crafted with React for an intuitive user experience. Google's speech-to-text API handles audio transcription, while the core bias detection uses Google Gemini, Vertex AI, and Langchain for RAG. Job posting data and bias examples are embedded with Vertex AI Embeddings and stored in Google BigQuery. When an interviewer asks a question, RAG retrieves relevant data from the vector store and combines it with Gemini's knowledge base for tailored analysis.
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
