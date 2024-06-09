@@ -32,7 +32,7 @@ This project is dedicated to the development and testing of cognitive architectu
 Career Navigator is an innovative job recommendation service based on LLM and Knowledge Graph. It addresses challenges students face on the CSM platform, improving job search efficiency. By leveraging advanced knowledge graph technology and algorithms, the system analyzes student resumes, matches them with job data, and recommends the best-fit positions.
 
 ![career](/asset/img/logo.png)
-![kg](/asset/img/visualisation.png)
+![kg](/asset/img/architechture_overview.png)
 
 ### InterView
 [work link](https://devpost.com/software/interview-7eugcy)
