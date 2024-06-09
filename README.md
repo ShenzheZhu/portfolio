@@ -1,5 +1,5 @@
 ## Education 
-- B.S. Science | CS | University of Toronto (Sep 2022 - Current)
+- B.S. Science, Computer Science, University of Toronto (Sep 2022 - Current)
 
 ## Research Interests
 - Explainable AI (XAI)
