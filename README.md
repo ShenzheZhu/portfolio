@@ -8,19 +8,18 @@
 - Knowledge representation
 
 ## Research Experience
-**Research Assistant @ SocialAI Lab, University of Toronto (_May 2024 - Present_)** advisor: William Cunningham
+*Research Assistant @ SocialAI Lab, University of Toronto (_May 2024 - Present_)* advisor: William Cunningham
 
-**Deep Learning Researcher  @ Department of Computer Science, University of Toronto (_Dec 2023 - Present_)** advisor: Xujie Si
+*Deep Learning Researcher  @ Department of Computer Science, University of Toronto (_Dec 2023 - Present_)* advisor: Xujie Si
 
 ## Work Experience
-**AI/NLP Analyst @ Urban Data Research Centre, University of Toronto (_May 2024 - Present_)**
+*AI/NLP Analyst @ Urban Data Research Centre, University of Toronto (_May 2024 - Present_)*
 
-**Data Analyst Intern @ University of Toronto Scarborough (_Jan 2024 - May 2024_)**
+*Data Analyst Intern @ University of Toronto Scarborough (_Jan 2024 - May 2024_)*
 
 ## Projects
 ### Minagen: A Minimal Testing Ground for Building Cognitive Architectures for Generative Agents
 This project is dedicated to the development and testing of cognitive architectures designed for generative AI agents. Our primary goal is to provide a minimalistic, yet powerful platform for researchers and developers to explore ideas and test hypotheses in the realm of cognitive modeling and AI.
-![minagen](/asset/img/minagen.png)
 ![cog](/asset/img/Cognitive-1.png)
 
 ### Career Navigator: LLM & Knowledge Graph-Based Job Recommender Engine
@@ -48,3 +47,4 @@ We built "InterView" using cutting-edge technologies. The frontend is crafted wi
 - [email](mailto:cho.zhu@mail.utoronto.ca)
 - [github](https://github.com/ShenzheZhu)
 - [google scholar](https://scholar.google.com/citations?user=WBZCniUAAAAJ&hl=zh-CN)
+- [CV](/asset/files/Work_CV.pdf)
