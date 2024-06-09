@@ -2,7 +2,10 @@
 - B.S. Science | CS | University of Toronto (Sep 2022 - Current)
 
 ## Research Interests
-- B.S. Science
+- Explainable AI (XAI)
+- LLM Intepretability & Alignment
+- Neural-symbolic System
+- Knowledge representation
 
 ## Research Experience
 **Research Assistant @ SocialAI Lab, University of Toronto (_May 2024 - Present_)** advisor: William Cunningham
