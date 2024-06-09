@@ -46,8 +46,8 @@ We built "InterView" using cutting-edge technologies. The frontend is crafted wi
 
    
 - [CV](/asset/files/Work_CV.pdf)
-- [google scholar](https://scholar.google.com/citations?user=WBZCniUAAAAJ&hl=zh-CN)
+- [Google Scholar](https://scholar.google.com/citations?user=WBZCniUAAAAJ&hl=zh-CN)
 - [Linkedin](https://www.linkedin.com/in/shenzhezhu0531/)
-- [email](mailto:cho.zhu@mail.utoronto.ca)
-- [github](https://github.com/ShenzheZhu)
+- [Email](mailto:cho.zhu@mail.utoronto.ca)
+- [Github](https://github.com/ShenzheZhu)
 
