@@ -1,5 +1,5 @@
 ## Education 
-- B.S. Science | Computer Science | University of Toronto (Sep 2022 - Current)
+- B.S. Science | CS | University of Toronto (Sep 2022 - Current)
 
 ## Research Experience
 **Research Assistant @ SocialAI Lab, University of Toronto (_May 2024 - Current)**
