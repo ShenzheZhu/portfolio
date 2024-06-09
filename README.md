@@ -9,11 +9,9 @@
 
 ## Research Experience
 *Research Assistant @ SocialAI Lab, University of Toronto (2024/05 - Present)* 
-
 advisor: William Cunningham
 
 *Deep Learning Researcher  @ Department of Computer Science, University of Toronto (2023/12 - Present)* 
-
 advisor: Xujie Si
 
 ## Work Experience
