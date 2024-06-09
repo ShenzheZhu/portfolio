@@ -8,14 +8,16 @@
 - Knowledge representation
 
 ## Research Experience
-*Research Assistant @ SocialAI Lab, University of Toronto (2024/05 - Present_)* 
+*Research Assistant @ SocialAI Lab, University of Toronto (2024/05 - Present)* 
+
 advisor: William Cunningham
 
-*Deep Learning Researcher  @ Department of Computer Science, University of Toronto (2023/12 - Present_)* 
+*Deep Learning Researcher  @ Department of Computer Science, University of Toronto (2023/12 - Present)* 
+
 advisor: Xujie Si
 
 ## Work Experience
-*AI/NLP Analyst @ Urban Data Research Centre, University of Toronto (2024/05 - Present_)*
+*AI/NLP Analyst @ Urban Data Research Centre, University of Toronto (2024/05 - Present)*
 
 *Data Analyst Intern @ University of Toronto Scarborough (2024/01 - 2024/05)*
 
