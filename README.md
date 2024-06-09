@@ -3,10 +3,12 @@
 
 ## Research Experience
 **Research Assistant @ SocialAI Lab, University of Toronto (_May 2024 - Current)**
+
 **Deep Learning Researcher  @ Department of Computer Science, University of Toronto (_Dec 2023 - Present_)**
 
 ## Work Experience
 **AI/NLP Analyst @ Urban Data Research Centre, University of Toronto (_May 2024 - Present_)**
+
 **Data Analyst Intern @ University of Toronto Scarborough (_Jan 2024 - May 2024)**
 
 ## Projects
