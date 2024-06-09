@@ -1,3 +1,5 @@
+![monet](asset/img/unnamed-6.png)
+Claude Monet, Villas at Bordighera (1884)
 ## Education 
 - B.S. Science, Computer Science, University of Toronto (2022/09 - Current)
 
