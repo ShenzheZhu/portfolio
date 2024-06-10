@@ -6,8 +6,8 @@ Claude Monet, Villas at Bordighera (1884)
 # Research Interests
 - Explainable AI (XAI)
 - LLM Intepretability & Alignment
-- Neural-symbolic System
-- Knowledge representation
+- Neural-Symbolic System
+- Knowledge Representation
 
 # Research Experience
 *Research Assistant @ SocialAI Lab, University of Toronto (2024/05 - Present)* 
