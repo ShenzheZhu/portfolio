@@ -22,11 +22,11 @@ advisor: Xujie Si
 *Data Analyst Intern @ University of Toronto Scarborough (2024/01 - 2024/05)*
 
 ## Projects
-### Minagen: A Minimal Testing Ground for Building Cognitive Architectures for Generative Agents
+- ### Minagen: A Minimal Testing Ground for Building Cognitive Architectures for Generative Agents
 This project is dedicated to the development and testing of cognitive architectures designed for generative AI agents. Our primary goal is to provide a minimalistic, yet powerful platform for researchers and developers to explore ideas and test hypotheses in the realm of cognitive modeling and AI.
 ![cog](/asset/img/Cognitive-1.png)
 
-### Career Navigator: LLM & Knowledge Graph-Based Job Recommender Engine
+- ### Career Navigator: LLM & Knowledge Graph-Based Job Recommender Engine
 [work link](https://github.com/ShenzheZhu/Career_Navigator_UTSC_AScoop)
 
 Career Navigator is an innovative job recommendation service based on LLM and Knowledge Graph. It addresses challenges students face on the CSM platform, improving job search efficiency. By leveraging advanced knowledge graph technology and algorithms, the system analyzes student resumes, matches them with job data, and recommends the best-fit positions.
