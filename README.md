@@ -39,8 +39,8 @@ Career Navigator is an innovative job recommendation service based on LLM and Kn
 
 
 # Publications
-1. Zhu S. Exploring knowledge graph-based neural-symbolic system from application perspective[J]. arXiv preprint arXiv:2405.03524, 2024.
-2. Sun, S., & Zhu, S. (2024). Searching Realistic-Looking Adversarial Objects For Autonomous Driving Systems. arXiv preprint arXiv:2405.11629.
+1. [Zhu S. Exploring knowledge graph-based neural-symbolic system from application perspective[J]. arXiv preprint arXiv:2405.03524, 2024.](https://arxiv.org/pdf/2405.03524)
+2. [Sun, S., & Zhu, S. (2024). Searching Realistic-Looking Adversarial Objects For Autonomous Driving Systems. arXiv preprint arXiv:2405.11629.](https://arxiv.org/pdf/2405.11629)
 
    
 - [CV](/asset/files/Work_CV.pdf)
