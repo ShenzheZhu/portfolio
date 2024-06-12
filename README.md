@@ -10,12 +10,15 @@ Claude Monet, Villas at Bordighera (1884)
 - Knowledge Representation
 
 # Research Experience
-*Collaborative Researcher  @ PRADA Lab, KAUST (2024/06 - Present)* 
+*Collaborative Researcher  @PRADA Lab, KAUST (2024/06 - Present)* 
 
-*Research Assistant @ SocialAI Lab, University of Toronto (2024/05 - Present)* 
+*Research Assistant @SocialAI Lab, University of Toronto (2024/05 - Present)* 
 advisor: William Cunningham
 
-*Research Assistant  @ Department of Computer Science, University of Toronto (2023/12 - Present)* 
+*Research Assistant  @CoNSens Lab, University of Toronto (2024/5 - 2024/9[Expected])* 
+advisor: Matthesia 
+
+*Research Assistant  @Department of Computer Science, University of Toronto (2023/12 - Present)* 
 advisor: Xujie Si
 
 # Work Experience
