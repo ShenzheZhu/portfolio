@@ -49,8 +49,10 @@ Career Navigator is an innovative job recommendation service based on LLM and Kn
 Author: Shenzhe Zhu, Shengxiang Sun
 
 [Paper](https://arxiv.org/pdf/2405.03524)
+
 This paper explores recent advancements in neural-symbolic integration based on KG, examining how it supports integration in three categories: enhancing the reasoning and interpretability of neural networks with symbolic knowledge (Symbol for Neural), refining the completeness and accuracy of symbolic systems via neural network methodologies (Neural for Symbol), and facilitating their combined application in Hybrid Neural-Symbolic Integration. It highlights current trends and proposes future research directions in Neural-Symbolic AI.
-![NS](/asset/img/Neural-Symbolic.png)
+
+![NS](/asset/img/NS.png)
 
 
 # Publications & Pre-Prints
