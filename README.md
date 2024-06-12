@@ -15,11 +15,11 @@ Claude Monet, Villas at Bordighera (1884)
 *Research Assistant @SocialAI Lab, University of Toronto (2024/05 - Present)* 
 advisor: William Cunningham
 
-*Research Assistant  @CoNSens Lab, University of Toronto (2024/5 - 2024/9 Expected)* 
-advisor: Matthias Niemeier
-
 *Research Assistant  @Department of Computer Science, University of Toronto (2023/12 - Present)* 
 advisor: Xujie Si
+
+*Research Assistant  @CoNSens Lab, University of Toronto (2024/5 - 2024/9 Expected)* 
+advisor: Matthias Niemeier
 
 # Work Experience
 *AI/NLP Analyst @ Urban Data Research Centre, University of Toronto (2024/05 - Present)*
