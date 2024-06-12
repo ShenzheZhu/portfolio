@@ -16,7 +16,7 @@ Claude Monet, Villas at Bordighera (1884)
 advisor: William Cunningham
 
 *Research Assistant  @CoNSens Lab, University of Toronto (2024/5 - 2024/9[Expected])* 
-advisor: Matthesia 
+advisor: Matthias Niemeier
 
 *Research Assistant  @Department of Computer Science, University of Toronto (2023/12 - Present)* 
 advisor: Xujie Si
