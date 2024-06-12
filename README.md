@@ -28,8 +28,8 @@ advisor: Matthias Niemeier
 
 # Projects
 ## Minagen: A Minimal Testing Ground for Building Cognitive Architectures for Generative Agents
-[[Code]]()
-[[Paper]]()
+[{Code}]()
+[{Paper}]()
 
 This project is dedicated to the development and testing of cognitive architectures designed for generative AI agents. Our primary goal is to provide a minimalistic, yet powerful platform for researchers and developers to explore ideas and test hypotheses in the realm of cognitive modeling and AI.
 
