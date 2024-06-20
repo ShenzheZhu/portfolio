@@ -45,6 +45,11 @@ Career Navigator is an innovative job recommendation service based on LLM and Kn
 ![kg](/asset/img/architechture_overview.png)
 
 # Selected Papers
+## SocialBench: Evaluating Generative Agents through Social Cognitive Criteria
+Author: Shenzhe Zhu, Eric Xue, Rebekah Gelpi, William A. Cunningham
+
+[{Paper}](ongoing)
+
 ## Exploring knowledge graph-based neural-symbolic system from application perspective
 Author: Shenzhe Zhu, Shengxiang Sun
 
